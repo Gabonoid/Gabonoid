@@ -12,7 +12,7 @@ Interested in
 
 Skills: JS / HTML / CSS / JAVA
 
-- 🌱 I’m currently learning Python, Java, JS, React and PHP 
+- 🌱 I’m currently learning GO, Python, Java, JS, React and PHP 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Gabonoid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gabriel-omar-serrano-jaimes-102a1b210/)  
