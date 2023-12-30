@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Gabriel
 #### I am a student of Intelligent Systems at UAEM
-![I am a student of Intelligent Systems at UAEM](https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?cs=srgb&dl=pexels-luis-gomes-546819.jpg&fm=jpg?width=200&height=500)
+![I am a student of Intelligent Systems at UAEM](https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?cs=srgb&dl=pexels-luis-gomes-546819.jpg&fm=jpg?width=200&height=400)
 
 I want to capture my progress in my skills as a programmer 💻, see my progress within the university 📔 as well as my personal projects 🔬
 
